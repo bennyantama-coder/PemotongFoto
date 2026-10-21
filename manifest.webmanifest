@@ -1,0 +1,12 @@
+{
+  "name":"VisaCrop - Pemotong Pas Foto Visa",
+  "short_name":"VisaCrop",
+  "description":"Buat pas foto visa sesuai ukuran piksel yang diminta, langsung di perangkat tanpa unggah data.",
+  "start_url":"./index.html",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#091222",
+  "theme_color":"#0b1429",
+  "lang":"id",
+  "icons":[{"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]
+}
